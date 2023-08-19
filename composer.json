@@ -1,0 +1,18 @@
+{
+    "name": "eko/jwtnative",
+    "autoload": {
+        "psr-4": {
+            "Eko\\Jwtnative\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ekoerwiswandoko",
+            "email": "ekoerwiswandoko@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "firebase/php-jwt": "^6.8"
+    }
+}
